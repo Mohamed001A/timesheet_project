@@ -1,0 +1,24 @@
+.logtime-container{
+    padding: 15px 0;
+}
+.modal-container{
+    padding: 20px;
+    .title{
+        font-size: 18px;
+        font-weight: 700;
+        margin-bottom: 10px;
+    }
+}
+.dates{
+    display: flex;
+    justify-content: space-between;
+    gap : 10px;
+
+}
+.date, .time{
+width: 100%;
+}
+.submit-btn{
+    display: flex;
+    justify-content: flex-end;
+}
